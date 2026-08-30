@@ -75,5 +75,19 @@ The roadmap will focus on this track being **Content & Copywriting**.
 🔗 **Resources**
 - Start Here :https://youtu.be/2TR-6V41M48?si=WKJzUCX-hQ_SZ4X6
 - Go Deeper : [ Content & Copywriting — Playlist](https://youtube.com/playlist?list=PLVkXY0WTlcZ1KkPaZj9OKbYPomvnbCU00&si=xSb3jNuE3Y1Kl4xH)
-- Additional Resources  :  [Content & Copywriting — Drive Resources](https://drive.google.com/drive/folders/1UmFIsUEuJLOLZNFxGYqxMkury3PH09mG)
+- Additional Resources  :  [Content & Copywriting — Drive Resources](https://drive.google.com/drive/folders/1UmFIsUEuJLOLZNFxGYqxMkury3PH09mG) 
+
+### 🚀 Professional Application
+
+1. 📊 **Understanding KPIs**  
+   https://youtu.be/QqfZUltP28o
+
+2. 📢 **Marketing Campaigns**  
+   https://youtu.be/B6H6_-YTFA0
+
+3. 📝 **Campaign Preparation**  
+   https://youtu.be/qBNcu5iFpn8
+
+4. 🤖 **AI in Marketing Campaigns**  
+   https://youtu.be/eFAI2iM-ihw?si=3OkpjeHRxlJ0pKW0
 
