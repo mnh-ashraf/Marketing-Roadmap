@@ -73,6 +73,6 @@ An introduction to the different areas within Marketing.
 The roadmap will focus on this track being **Content & Copywriting**.
 
 🔗 **Resources**
-- [Content & Copywriting — Playlist](https://youtube.com/playlist?list=PLVkXY0WTlcZ1KkPaZj9OKbYPomvnbCU00&si=xSb3jNuE3Y1Kl4xH)
-- [Content & Copywriting — Drive Resources](https://drive.google.com/drive/folders/1UmFIsUEuJLOLZNFxGYqxMkury3PH09mG)
+- Start with : [Content & Copywriting — Playlist](https://youtube.com/playlist?list=PLVkXY0WTlcZ1KkPaZj9OKbYPomvnbCU00&si=xSb3jNuE3Y1Kl4xH)
+- Then :  [Content & Copywriting — Drive Resources](https://drive.google.com/drive/folders/1UmFIsUEuJLOLZNFxGYqxMkury3PH09mG)
 
