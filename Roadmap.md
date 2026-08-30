@@ -70,7 +70,7 @@ An introduction to the different areas within Marketing.
 
 ## ✍️ Content & Copywriting
 
-The roadmap will be divided into different Marketing Specializations, with the main focus of this track being **Content & Copywriting**.
+The roadmap will focus on this track being **Content & Copywriting**.
 
 🔗 **Resources**
 - [Content & Copywriting — Playlist](https://youtube.com/playlist?list=PLVkXY0WTlcZ1KkPaZj9OKbYPomvnbCU00&si=xSb3jNuE3Y1Kl4xH)
