@@ -1,7 +1,6 @@
 # 📚 Marketing Roadmap
 
-A learning roadmap designed to build a solid foundation in Marketing, then introduce different Marketing Specializations with a focus on **Content & Copywriting**.
-
+A practical learning roadmap that takes you from Marketing fundamentals to **Content & Copywriting** .
 ---
 
 ## 🟢 Phase 1 — Marketing Fundamentals
