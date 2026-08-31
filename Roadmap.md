@@ -83,8 +83,8 @@ The roadmap will focus on this track being **Content & Copywriting**.
    https://youtu.be/QqfZUltP28o
 
 2. 📢 **Marketing Campaigns**  
-    1) https://youtu.be/-1-IQ_1jKpU?si=9c6_YvY7qlPIXArl
-    2) https://youtu.be/B6H6_-YTFA0
+   In Arabic : https://youtu.be/-1-IQ_1jKpU?si=9c6_YvY7qlPIXArl
+   In English : https://youtu.be/B6H6_-YTFA0
 
 4. 📝 **Campaign Preparation**  
    https://youtu.be/qBNcu5iFpn8
