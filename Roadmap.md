@@ -37,7 +37,8 @@ A practical learning roadmap that takes you from Marketing fundamentals to **Con
 
 ● 2. https://youtu.be/4XKXBSY6dbA?si=ng8x4c803aJ-n2uF
 - In English: 
-(https://youtu.be/iRjXccj4yRo?si=y8EUucG-6wQH_lPP)
+
+● (https://youtu.be/iRjXccj4yRo?si=y8EUucG-6wQH_lPP)
 
 ---
 
