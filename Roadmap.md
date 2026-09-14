@@ -31,7 +31,9 @@ A practical learning roadmap that takes you from Marketing fundamentals to **Con
 ### 🧭 4. Customer Journey & Marketing Funnel
 
 🔗 **Resources**
-- [Customer Journey & Marketing Funnel](https://youtu.be/iRjXccj4yRo?si=y8EUucG-6wQH_lPP)
+- [Customer Journey & Marketing Funnel] In Arabic :1. https://youtu.be/EMSZ6eMKUf8?si=318aRAyyqmhn9Xb8
+2. https://youtu.be/4XKXBSY6dbA?si=ng8x4c803aJ-n2uF 
+In English: (https://youtu.be/iRjXccj4yRo?si=y8EUucG-6wQH_lPP)
 
 ---
 
