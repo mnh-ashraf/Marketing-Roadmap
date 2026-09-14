@@ -33,11 +33,11 @@ A practical learning roadmap that takes you from Marketing fundamentals to **Con
 🔗 **Resources**
 - In Arabic :
 
-  https://youtu.be/EMSZ6eMKUf8?si=318aRAyyqmhn9Xb8
+https://youtu.be/EMSZ6eMKUf8?si=318aRAyyqmhn9Xb8
 
 - In English: 
 
- (https://youtu.be/iRjXccj4yRo?si=y8EUucG-6wQH_lPP)
+https://youtu.be/iRjXccj4yRo?si=y8EUucG-6wQH_lPP
 
 ---
 
