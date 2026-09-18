@@ -1,4 +1,4 @@
-# September Content Calendar
+# September & October Content Calendar
 
 **Month:** September & October 2026  
 **Campaign:** Comeback & Volunteer Recruitment  
